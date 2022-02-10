@@ -1,3 +1,9 @@
 # Project exclude paths
 /shiro-test/target/
 /shiro-web/target/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
